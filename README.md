@@ -6,7 +6,7 @@ Features two approaches:
 
 2. Minimize the MSE (Mean Squared Error) through a formula and solve for the regression coefficent (m) and y-intercept (b). This approach is elegant and precise, but does not work well with large datasets. Other methods like gradient descent will be much more efficient on large datasets.
 
-Formula for approach:
+Formula for approach 2:
 ![](https://github.com/CarloLepelaars/linreg/blob/master/linreg_MSE_formula.png)
 
 
