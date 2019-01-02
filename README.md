@@ -1,12 +1,12 @@
 # linreg
-Linear Regression from scratch in Python.
+Two different Linear Regression algorithms from scratch in Python.
 
 Features two approaches:
 1. Iteratively optimize the line of best fit and approximate the regression coefficent (m) and y-intercept (b).
 
 2. Minimize the MSE (Mean Squared Error) through a formula and solve for the regression coefficent (m) and y-intercept (b). This approach is elegant and precise, but does not work well with large datasets. Other methods like gradient descent will be much more efficient on large datasets.
 
-Formula:
+Formula for approach:
 ![](https://github.com/CarloLepelaars/linreg/blob/master/linreg_MSE_formula.png)
 
 
