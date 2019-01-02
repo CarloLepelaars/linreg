@@ -10,6 +10,6 @@ Formula for approach:
 ![](https://github.com/CarloLepelaars/linreg/blob/master/linreg_MSE_formula.png)
 
 
-Inspiration comes from [Luis Serrano's explanation of Linear Regression on Youtube](https://youtu.be/wYPUhge9w5c) and [DeepMind's Introduction to Tensorflow lecture](https://youtu.be/JO0LwmIlWw0).
+Inspiration comes from [Luis Serrano's explanation of Linear Regression](https://youtu.be/wYPUhge9w5c) and [DeepMind's Introduction to Tensorflow lecture](https://youtu.be/JO0LwmIlWw0).
 
 Source of the formula image is [DeepMind's Introduction to Tensorflow lecture (32:31)](https://youtu.be/JO0LwmIlWw0?t=1951).
