@@ -6,8 +6,8 @@ Features two approaches:
 
 2. Minimize the MSE (Mean Squared Error) through a formula and solve for the regression coefficent (m) and y-intercept (b). This approach is elegant and precise, but does not work well with large datasets. Other methods like gradient descent will be much more efficient on large datasets.
 
-
-
+Formula:
+![](https://github.com/CarloLepelaars/linreg/blob/master/linreg_MSE_formula.png)
 
 
 Inspiration comes from [Luis Serrano's explanation of Linear Regression on Youtube](https://youtu.be/wYPUhge9w5c) and [DeepMind's Introduction to Tensorflow lecture](https://youtu.be/JO0LwmIlWw0).
